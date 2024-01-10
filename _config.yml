@@ -5,7 +5,7 @@ url: https://mxmnr.github.io/mxmnr-blog
 paginate: 3
 baseurl: "https://mxmnr.github.io/mxmnr-blog"
 permalink: pretty
-theme: jekyll-theme-minima
+theme: minima
 
 # Gems
 plugins:

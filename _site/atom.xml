@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Your Website Title</title>
- <link href="/atom.xml" rel="self"/>
- <link href="http://0.0.0.0:4000/"/>
- <updated>2024-01-10T02:06:13+00:00</updated>
+ <title>MxMnr</title>
+ <link href="/https://mxmnr.github.io/mxmnr-blog/atom.xml" rel="self"/>
+ <link href="http://0.0.0.0:4000https://mxmnr.github.io/mxmnr-blog/"/>
+ <updated>2024-01-10T04:15:34+00:00</updated>
  <id>http://0.0.0.0:4000</id>
  <author>
-   <name>Avic Ndugu</name>
-   <email>avicndugu1234@gmail.com</email>
+   <name>Max Miner</name>
+   <email></email>
  </author>
 
  
  <entry>
    <title>Introduction</title>
-   <link href="http://0.0.0.0:4000/2020/04/04/introduction/"/>
+   <link href="http://0.0.0.0:4000https://mxmnr.github.io/mxmnr-blog/2020/04/04/introduction/"/>
    <updated>2020-04-04T00:00:00+00:00</updated>
    <id>http://0.0.0.0:4000/2020/04/04/introduction</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/img/pexels-pixabay-257360.jpg&quot; alt=&quot;Featured top image&quot; /&gt;&lt;/p&gt;
@@ -28,7 +28,7 @@
 &lt;h2 id=&quot;whats-included&quot;&gt;What’s included&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/404.html&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, &lt;a href=&quot;/archive&quot;&gt;archive page&lt;/a&gt;, and &lt;a href=&quot;/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/https://mxmnr.github.io/mxmnr-blog/404.html&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/https://mxmnr.github.io/mxmnr-blog/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, &lt;a href=&quot;/https://mxmnr.github.io/mxmnr-blog/archive&quot;&gt;archive page&lt;/a&gt;, and &lt;a href=&quot;/https://mxmnr.github.io/mxmnr-blog/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
   &lt;li&gt;Mobile friendly design and development&lt;/li&gt;
   &lt;li&gt;Easily scalable text and component sizing with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
   &lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
@@ -48,7 +48,7 @@
  
  <entry>
    <title>Options</title>
-   <link href="http://0.0.0.0:4000/2020/04/03/options/"/>
+   <link href="http://0.0.0.0:4000https://mxmnr.github.io/mxmnr-blog/2020/04/03/options/"/>
    <updated>2020-04-03T00:00:00+00:00</updated>
    <id>http://0.0.0.0:4000/2020/04/03/options</id>
    <content type="html">&lt;p&gt;Basic light and dark mode support is included. Colors are also provided for your own customization.&lt;/p&gt;
@@ -210,7 +210,7 @@
  
  <entry>
    <title>Example content</title>
-   <link href="http://0.0.0.0:4000/2020/04/02/example-content/"/>
+   <link href="http://0.0.0.0:4000https://mxmnr.github.io/mxmnr-blog/2020/04/02/example-content/"/>
    <updated>2020-04-02T00:00:00+00:00</updated>
    <id>http://0.0.0.0:4000/2020/04/02/example-content</id>
    <content type="html">&lt;p class=&quot;message&quot;&gt;&lt;strong&gt;Howdy!&lt;/strong&gt; This is an example blog post that shows several types of HTML content supported in this theme.&lt;/p&gt;
@@ -406,7 +406,7 @@
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="http://0.0.0.0:4000/2020/03/01/whats-jekyll/"/>
+   <link href="http://0.0.0.0:4000https://mxmnr.github.io/mxmnr-blog/2020/03/01/whats-jekyll/"/>
    <updated>2020-03-01T00:00:00+00:00</updated>
    <id>http://0.0.0.0:4000/2020/03/01/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/jekyll/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;

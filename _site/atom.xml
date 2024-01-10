@@ -4,7 +4,7 @@
  <title>Your Website Title</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://0.0.0.0:4000/"/>
- <updated>2024-01-08T16:54:52+00:00</updated>
+ <updated>2024-01-10T02:06:13+00:00</updated>
  <id>http://0.0.0.0:4000</id>
  <author>
    <name>Avic Ndugu</name>
@@ -23,7 +23,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;This demo site was last updated January 08, 2024.&lt;/p&gt;
+&lt;p&gt;This demo site was last updated January 10, 2024.&lt;/p&gt;
 
 &lt;h2 id=&quot;whats-included&quot;&gt;What’s included&lt;/h2&gt;
 

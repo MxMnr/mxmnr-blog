@@ -33,6 +33,8 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 2.0)
+    jekyll-feed (0.17.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-gist (1.5.0)
       octokit (~> 4.2)
     jekyll-paginate (1.1.0)
@@ -51,6 +53,10 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
+    minima (2.5.1)
+      jekyll (>= 3.5, < 5.0)
+      jekyll-feed (~> 0.9)
+      jekyll-seo-tag (~> 2.1)
     octokit (4.25.0)
       faraday (>= 1, < 3)
       sawyer (~> 0.9)
@@ -81,6 +87,7 @@ DEPENDENCIES
   jekyll-gist (~> 1.5)
   jekyll-paginate (~> 1.1)
   jekyll-seo-tag (~> 2.8)
+  minima (= 2.5.1)
 
 BUNDLED WITH
    2.1.4

@@ -1,9 +1,9 @@
 # Setup
 title: MxMnr
 tagline: Your Website Tagline
-url: https://mxmnr.github.io/mxmnr-blog/
+url: https://mxmnr.github.io/mxmnr-blog
 paginate: 3
-baseurl: ""
+baseurl: "https://mxmnr.github.io/mxmnr-blog"
 permalink: pretty
 theme: jekyll-theme-minima
 
